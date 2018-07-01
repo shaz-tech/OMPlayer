@@ -1,0 +1,46 @@
+{
+    "id": 7,
+    "type": "category",
+    "name": "Banners",
+    "track": [{
+              "id": "banner1",
+              "artist_name": "Diljit Dosanjh",
+              "track_name": "Ishq Di Baajiyaan",
+              "release_date": "2018-06-18",
+              "img_color_hexcode": "#8dc63f"
+              },
+              {
+              "id": "banner2",
+              "artist_name": "Badshah",
+              "track_name": "Tareefan",
+              "release_date": "2018-05-02",
+              "img_color_hexcode": "#ec008c"
+              },
+              {
+              "id": "banner3",
+              "track_name": "Kar Har Maidaan Fateh",
+              "release_date": "2018-06-11",
+              "img_color_hexcode": "#b7b7b7"
+              },
+              {
+              "id": "banner4",
+              "artist_name": "Deep Money",
+              "track_name": "Heeriye",
+              "img_color_hexcode": "#fff568"
+              },
+              {
+              "id": "banner5",
+              "name": "Sonu Nigam,Sunidhi Chauhan",
+              "track_name": "Main Badhiya Tu Bhi Badhiya",
+              "release_date": "2018-06-03",
+              "img_color_hexcode": "#8dc63f"
+              },
+              {
+              "id": "banner6",
+              "artist_name": "Amit Mishra, Jonita Gandhi, Sriram Chandra",
+              "track_name": "Allah Duhai Hai Race 3",
+              "release_date": "2018-06-01",
+              "img_color_hexcode": "#00bff3"
+              }
+              ]
+}

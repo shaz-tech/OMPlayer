@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OM Player</string>
+
+    <string name="track_name_dummy">Track name here</string>
+    <string name="artist_name_dummy">Artist name here</string>
+    <string name="new_songs">NEW SONGS</string>
+    <string name="see_more">SEE MORE</string>
+    <string name="trending">TRENDING</string>
+</resources>

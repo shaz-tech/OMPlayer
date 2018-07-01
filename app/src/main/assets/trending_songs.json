@@ -1,0 +1,54 @@
+{
+    "id": 11,
+    "type": "category",
+    "name": "Trending",
+    "track": [{
+              "id": "track1",
+              "artist_name": "Atif Aslam",
+              "track_name": "O Saathi",
+              "img_color_hexcode": "#ec008c"
+              },
+              {
+              "id": "track2",
+              "artist_name": "Rahat Fateh Ali Khan",
+              "track_name": "Sanu Ek Pal Chain Na Aave",
+              "img_color_hexcode": "#00bff3"
+              },
+              {
+              "id": "track3",
+              "track_name": "Dilbaro Razi",
+              "artist_name": "Shankar Mahadevan, Harshdeep Kaur, Vibha Saraf",
+              "img_color_hexcode": "#a36209"
+              },
+              {
+              "id": "track4",
+              "artist_name": "Aastha Gill",
+              "track_name": "Buzz",
+              "img_color_hexcode": "#ec008c"
+              },
+              {
+              "id": "track5",
+              "name": " Dev Negi, Pavni Pandey, Shraddha Pandit, Pravesh Mallick",
+              "track_name": "Sweety Tera Drama",
+              "img_color_hexcode": "#00bff3"
+              },
+              {
+              "id": "track6",
+              "artist_name": "Amit Mishra, Jonita Gandhi, Sriram Chandra",
+              "track_name": "Allah Duhai Hai Race 3",
+              "img_color_hexcode": "#a36209"
+              },
+              {
+              "id": "track7",
+              "artist_name": "Badshah",
+              "track_name": "Happy Happy",
+              "img_color_hexcode": "#ec008c"
+              },
+                            {
+              "id": "track8",
+              "artist_name": "Diljit Dosanjh",
+              "track_name": "Ishq Di Baajiyaan",
+              "img_color_hexcode": "#b7b7b7"
+              }
+              ]
+}

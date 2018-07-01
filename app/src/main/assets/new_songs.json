@@ -1,0 +1,55 @@
+{
+    "id": 10,
+    "type": "category",
+    "name": "New Songs",
+    "track": [{
+              "id": "track1",
+              "artist_name": "Atif Aslam",
+              "track_name": "O Saathi",
+              "img_color_hexcode": "#fff568"
+              },
+              {
+              "id": "track2",
+              "artist_name": "Rahat Fateh Ali Khan",
+              "track_name": "Sanu Ek Pal Chain Na Aave",
+              "img_color_hexcode": "#8dc63f"
+              },
+              {
+              "id": "track3",
+              "track_name": "Dilbaro Razi",
+              "artist_name": "Shankar Mahadevan, Harshdeep Kaur, Vibha Saraf",
+              "release_date": "2018-06-11",
+              "img_color_hexcode": "#0054a6"
+              },
+              {
+              "id": "track4",
+              "artist_name": "Aastha Gill",
+              "track_name": "Buzz",
+              "img_color_hexcode": "#b7b7b7"
+              },
+              {
+              "id": "track5",
+              "name": " Dev Negi, Pavni Pandey, Shraddha Pandit, Pravesh Mallick",
+              "track_name": "Sweety Tera Drama",
+              "img_color_hexcode": "#fff568"
+              },
+              {
+              "id": "track6",
+              "artist_name": "Amit Mishra, Jonita Gandhi, Sriram Chandra",
+              "track_name": "Allah Duhai Hai Race 3",
+              "img_color_hexcode": "#8dc63f"
+              },
+              {
+              "id": "track7",
+              "artist_name": "Badshah",
+              "track_name": "Happy Happy",
+              "img_color_hexcode": "#0054a6"
+              },
+                            {
+              "id": "track8",
+              "artist_name": "Diljit Dosanjh",
+              "track_name": "Ishq Di Baajiyaan",
+              "img_color_hexcode": "#b7b7b7"
+              }
+              ]
+}
